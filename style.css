@@ -1,0 +1,31 @@
+h1{
+    color: rgb(76, 0, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+img{
+    width:20%;
+    height:15%;
+    padding: 10px 10px 10px 10px;
+}
+
+li{
+    padding: 0px;
+}
+
+.no-bullet {
+    list-style-type: none;
+}
+
+a{
+    font-style: italic;
+}
+
+table,th,td{
+    border: 3px solid gray;
+    border-radius: 5px;
+    padding: 7px;
+}
